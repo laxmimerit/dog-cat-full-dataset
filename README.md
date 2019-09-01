@@ -1,4 +1,4 @@
-# dog-cat-dataset-100
+# dog-cat-full-dataset
 This repository contains 100 images of dogs and cats for training and 25 images of same for testing
 
 I have used this [data](https://www.kaggle.com/c/dogs-vs-cats/data) to prepare this structured data.
